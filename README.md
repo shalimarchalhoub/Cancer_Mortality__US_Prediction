@@ -2,9 +2,6 @@
 
 <h2 align="center">Empowering Data-Driven Insights in Healthcare</h2>
 
-<p align="center">
-  <img src="cancer_image.jpg" alt="Cancer Death Rate" width="300" height="200">
-</p>
 
 ## Introduction 🚀
 Welcome to my project dedicated to the prediction of cancer death rates across diverse US counties. I embarked on a data-driven quest to construct a predictive model that empowers resource allocation strategies and contributes to the reduction of cancer-related mortalities.
